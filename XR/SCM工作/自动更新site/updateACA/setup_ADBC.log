@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Accela Citizen Access
+Version=7.3.3.2.0
+Company=Accela Inc.
+Lang=0409
